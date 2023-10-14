@@ -1,0 +1,13 @@
+@font-face {
+	font-family: '5x5';
+	src: url(Fonts/5ž5.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: '5x5';
+	box-sizing: border-box;
+}
